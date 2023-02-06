@@ -1,0 +1,68 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "published": true,
+      "recipeName": "Chocolate Brownies",
+      "ingredients": [
+        {
+          "name": "Butter",
+          "isChecked": false
+        },
+        {
+          "name": "Sugar",
+          "isChecked": false
+        },
+        {
+          "name": "Eggs",
+          "isChecked": false
+        },
+        {
+          "name": "Vanilla Extract",
+          "isChecked": false
+        },
+        {
+          "name": "Cocoa Powder",
+          "isChecked": false
+        },
+        {
+          "name": "All-Purpose Flour",
+          "isChecked": false
+        },
+        {
+          "name": "Salt",
+          "isChecked": false
+        },
+        {
+          "name": "Baking Powder",
+          "isChecked": false
+        }
+      ],
+      "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "recipeName": "Recipe Name",
+      "published": false,
+      "ingredients": [
+        {
+          "name": "Ingredients",
+          "isChecked": false
+        }
+      ],
+      "instructions": "Instructions",
+      "id": 2
+    },
+    {
+      "recipeName": "My recipes",
+      "published": false,
+      "ingredients": [
+        {
+          "name": "sdfsdfg",
+          "isChecked": false
+        }
+      ],
+      "instructions": "sdfsdf",
+      "id": 3
+    }
+  ]
+}

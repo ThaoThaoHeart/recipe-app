@@ -1,0 +1,9 @@
+.recipeIngredients{
+  list-style-type: none;
+}
+
+.recipe{
+  border: 1px solid black;
+  padding: 15px;
+  margin: 10px;
+}
